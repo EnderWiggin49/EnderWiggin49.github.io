@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a life insurance acutary from Cambridge MA.  :D
+I am a life insurance acutary from Cambridge MA.
 
 ### More Information
 
